@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{B8AA8DD5-2F87-4B12-B796-6C77F8EA6CD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskToTipe", "TaskToTipe\TaskToTipe.csproj", "{A3F4AAD8-3BCE-4D42-82D2-97DCE7B00096}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{B8AA8DD5-2F87-4B12-B796-6C77F8EA6CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8AA8DD5-2F87-4B12-B796-6C77F8EA6CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8AA8DD5-2F87-4B12-B796-6C77F8EA6CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3F4AAD8-3BCE-4D42-82D2-97DCE7B00096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F4AAD8-3BCE-4D42-82D2-97DCE7B00096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F4AAD8-3BCE-4D42-82D2-97DCE7B00096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F4AAD8-3BCE-4D42-82D2-97DCE7B00096}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
