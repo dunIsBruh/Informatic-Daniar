@@ -3,7 +3,7 @@
 class Program
 {
     static void Main(string[] args)
-{
+	{
 	string name = Console.Readline();
 	int age = int.Parse(Console.Readline());
 	int course = int.Parse(Console.Readline());
